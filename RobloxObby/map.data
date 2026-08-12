@@ -3,4 +3,4 @@ MAT|mat1|https://raw.githubusercontent.com/Persvicx/VRLegsCustomMapData/refs/hea
 LIGHT|Directional Light|200,200,200,255|2.5|1000|47,187,0|Soft
 OBJ|https://raw.githubusercontent.com/Persvicx/VRLegsCustomMapData/refs/heads/main/RobloxObby/RobloxObby.obj|mat1|0,0,0|0,0,0|1,1,1|true|false
 MAT|warningmat1|https://raw.githubusercontent.com/Persvicx/VRLegsCustomMapData/refs/heads/main/RobloxObby/BadImport.png|1|1
-PRIMITIVE|Plane|Plane|0,1,0|0,0,0|0.5,0.5,0.5|warningmat1|true
+PRIMITIVE|Plane|Plane|3.65,0.9,-12|74,155,179|0.5,0.5,0.5|warningmat1|true
