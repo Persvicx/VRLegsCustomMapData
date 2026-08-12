@@ -3,6 +3,7 @@
 
 ### Info:
 details.data is a general file describing all of the available maps.
+current.version is the current version of the mod, blocking out old versions.
 folders are maps.
 in the folder's map.data, it defines the map data.
 maps can have a BGM, textures, meshes, or basic primitives. there are also other options.
