@@ -1,0 +1,4 @@
+BGM|https://raw.githubusercontent.com/Persvicx/VRLegsCustomMapData/refs/heads/main/67Party/67PartyAltBGM.ogg|0.1
+MAT|mat1|https://raw.githubusercontent.com/Persvicx/VRLegsCustomMapData/refs/heads/main/67Party/67Party.png|1|1
+LIGHT|Directional Light|255,110,110,255|5|1000|309,261,0|None
+OBJ|https://raw.githubusercontent.com/Persvicx/VRLegsCustomMapData/refs/heads/main/67Party/67Party.obj|mat1|0,0,-2.5|0,0,0|1,1,1|false|false
