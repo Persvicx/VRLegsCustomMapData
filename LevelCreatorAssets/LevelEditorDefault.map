@@ -1,1 +1,30 @@
-WIP
+# Scene Setup
+MAT | mat1 | https://raw.githubusercontent.com/Persvicx/VRLegsCustomMapData/refs/heads/main/LevelCreatorAssets/PurpleGrid.png | 1 | 1
+
+LIGHT | Directional Light | 255, 255, 255, 255 | 1.5 | 1000 | 59, 221, 0 | Soft
+
+PRIMITIVE | Ground | Plane | 0, 0, 0 | 0, 0, 0 | 25, 1, 25 | mat1 | false
+
+PRIMITIVE | TextWall | Cube | 0, 2, -5.6 | 90, 0, 0 | 12, 1, 3 | mat1 | true
+
+TEXT | WelcomeText | <#FFF>Welcome to the Level Editor! To get started,<br>Press <#00F>Help / Syntax<#FFF> to get familiar with the Level Editor.<br>I've placed objects around the map, to help you get an idea of what you can do here.<br><#F55>The Map Level Editor is on your desktop screen.<br><#777><size=2>Good luck and have fun creating levels! | 0, 2, -5 | 0, -180, 0 | 1, 1, 1 | 255, 255, 255, 255 | 3
+
+# Ladder & Watchtower
+LOOP_PRIMITIVE | 10 | Ladder_Handles | Cylinder | 5, 1, 0 | 0, 0.75, 0 | 90, 0, 0 | 0.1, 0.3, 0.1 | mat1 | true
+
+PRIMITIVE | Ladder_Beam1 | Cube | 5, 4, 0.375 | 0, 0, 0 | 0.15, 8, 0.15 | mat1 | false
+
+PRIMITIVE | Ladder_Beam2 | Cube | 5, 4, -0.375 | 0, 0, 0 | 0.15, 8, 0.15 | mat1 | false
+
+# Other Primitives
+PRIMITIVE | Sphere | Sphere | 0, 2, 10 | 0, 0, 0 | 4, 4, 4 | mat1 | true
+
+PRIMITIVE | Capsule | Capsule | 5, 4, 10 | 0, 0, 0 | 4, 4, 4 | mat1 | true
+
+PRIMITIVE | Cylinder | Cylinder | 10, 4, 10 | 0, 0, 0 | 4, 4, 4 | mat1 | true
+
+PRIMITIVE | Cube | Cube | 15, 2, 10 | 0, 0, 0 | 5, 5, 5 | mat1 | true
+
+PRIMITIVE | Plane | Plane | 20, 2, 10 | 0, 0, 0 | 0.5, 0.5, 0.5 | mat1 | true
+
+PRIMITIVE | Quad | Quad | 25, 2, 10 | 0, 0, 0 | 4, 4, 4 | mat1 | true
