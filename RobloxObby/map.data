@@ -2,5 +2,4 @@ BGM|https://raw.githubusercontent.com/Persvicx/VRLegsCustomMapData/refs/heads/ma
 MAT|mat1|https://raw.githubusercontent.com/Persvicx/VRLegsCustomMapData/refs/heads/main/RobloxObby/RobloxObby.png|1|1
 LIGHT|Directional Light|200,200,200,255|2.5|1000|47,187,0|Soft
 OBJ|https://raw.githubusercontent.com/Persvicx/VRLegsCustomMapData/refs/heads/main/RobloxObby/RobloxObby.obj|mat1|0,0,0|0,0,0|1,1,1|true|false
-MAT|warningmat1|https://raw.githubusercontent.com/Persvicx/VRLegsCustomMapData/refs/heads/main/RobloxObby/BadImport.png|1|1
-PRIMITIVE|Plane|Plane|3.65,0.9,-12|74,155,179|0.5,0.5,0.5|warningmat1|true
+TEXT|TextObject|<#A00>This map was imported<br>REALLY BADLY<br><br>Watch out for missing geometry!<br><br>I'm sorry lmao,<br>I'll prob fix in the future<br><br>I don't even know<br>if this is possible to beat.<br>Items will be handy...<br><br><#647>- Aech|3.65,0.9,-12|-15,145,0|1,1,1|255,255,255,255|2
