@@ -1,4 +1,4 @@
-BGM|https://raw.githubusercontent.com/Persvicx/VRLegsCustomMapData/refs/heads/main/Objects/Objects.ogg|0.1
+BGM|https://raw.githubusercontent.com/Persvicx/VRLegsCustomMapData/refs/heads/main/Objects/Objects.wav|0.1
 MAT|mat1|https://raw.githubusercontent.com/Persvicx/VRLegsCustomMapData/refs/heads/main/Objects/Texture.png|1|1
 LIGHT|Directional Light|255,200,224,255|1.5|1000|59,221,0|Soft
 PRIMITIVE|Ground|Plane|0,0,0|0,0,0|100,1,100|mat1|false
